@@ -1,1 +1,6 @@
-# Your solution to Exercise 1
+def countdown(seconds)
+for i in range(seconds,0,-1)
+print(i)
+print('start')
+n=int(input('enter coutdowns seconds')
+      countdown(n)
